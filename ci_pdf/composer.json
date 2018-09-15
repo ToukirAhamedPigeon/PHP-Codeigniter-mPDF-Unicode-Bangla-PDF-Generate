@@ -1,0 +1,12 @@
+{
+    "name": "touki/ci_pdf",
+    "authors": [
+        {
+            "name": "Toukir Ahamed Pigeon",
+            "email": "toukir.ahamed.pigeon@hotmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^7.1"
+    }
+}
